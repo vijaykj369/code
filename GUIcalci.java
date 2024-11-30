@@ -1,4 +1,4 @@
-
+//creating a simple gui calculator
 //importing swing and event modules
 import javax.swing.*;
 import java.awt.event.*;
